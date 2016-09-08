@@ -1,0 +1,39 @@
+{"products": [
+	{
+		"id": 1,
+		"title": "Soap",
+		"image": "images/Dove_Soap.jpg",
+		"price": 60
+	},
+	{
+		"id": 2,
+		"title": "Shampoo",
+		"image": "images/711fb3159423b366306bb5a2efd7cac3.jpg",
+		"price": 250
+	},
+	{
+		"id": 3,
+		"title": "Conditioner",
+		"image": "images/HCa13_2.jpg",
+		"price": 180
+	},
+	{
+		"id": 4,
+		"title": "Choclate",
+		"image": "images/8-best-foods-that-improve-your-memory-8.jpg",
+		"price": 50
+	},
+	{
+		"id": 5,
+		"title": "Wine",
+		"image": "images/Wine-Bottles.jpg",
+		"price": 1000
+	},
+	{
+		"id": 6,
+		"title": "Shower Gel",
+		"image": "images/adidas_ice_dive_shower_gel-6a300.jpg",
+		"price": 200
+	}
+
+]}
